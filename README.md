@@ -1,9 +1,6 @@
 # TCP Congestion Control Simulation
 ### TCP Tahoe vs TCP Reno — Python Simulation
 
-**Subject:** Computer Communication Networks (CCN)  
-**Branch:** Electronics and Telecommunication Engineering (TY)  
-**University:** University of Mumbai
 
 ---
 
@@ -86,7 +83,3 @@ The notebook generates three visualizations:
 - `pandas`
 
 ---
-
-## Why This Project?
-
-Unit 5.4 of the CCN syllabus covers Flow Control, Error Control, and Congestion Control theoretically, but none of the standard lab experiments simulate congestion control behavior. This project fills that gap with a clean, visual, Python-based simulation.
